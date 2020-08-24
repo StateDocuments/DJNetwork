@@ -1,3 +1,4 @@
 # DJNetwork
- * Voice Conference Call Line Instructions:  [Voice Conference Call Line Instructions](https://f-droid.org/en/packages/se.lublin.mumla/)
+ * Voice Conference Call Line Instructions:  [Voice Conference Call Line Instructions](https://github.com/StateDocuments/Voice/blob/master/README.md)
+
  
